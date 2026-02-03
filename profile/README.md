@@ -1,10 +1,10 @@
-# 🚀 Nome da Empresa Jr
+# 🚀 CompAct Jr
 
 > Soluções tecnológicas desenvolvidas por estudantes, com qualidade profissional.
 
 ## 📌 Sobre a Empresa
 
-A **Nome da Empresa Jr** é uma empresa júnior formada por estudantes de tecnologia, vinculada à **[Universidade/Instituição]**, com o objetivo de desenvolver soluções digitais inovadoras, acessíveis e alinhadas às necessidades do mercado.
+A **CompAct Jr** é uma empresa júnior formada por estudantes de tecnologia, vinculada à **[UFSM]**, com o objetivo de desenvolver soluções digitais inovadoras, acessíveis e alinhadas às necessidades do mercado.
 
 Atuamos sem fins lucrativos, promovendo o aprendizado prático, o empreendedorismo e o impacto real por meio da tecnologia.
 
@@ -22,6 +22,8 @@ Atuamos sem fins lucrativos, promovendo o aprendizado prático, o empreendedoris
 - **Backend:** Java, Node.js, Spring Boot,
 - **Banco de Dados:** MySQL, PostgreSQL, Mongo
 - **Outros:** Git, Docker, Insomnia, Dbeaver
+
+> ## [Capacitações Para Novos Membros](/capacitacoes.md)
 
 
 
