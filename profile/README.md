@@ -1,12 +1,27 @@
-## Hi there 👋
+# 🚀 Nome da Empresa Jr
 
-<!--
+> Soluções tecnológicas desenvolvidas por estudantes, com qualidade profissional.
 
-**Here are some ideas to get you started:**
+## 📌 Sobre a Empresa
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A **Nome da Empresa Jr** é uma empresa júnior formada por estudantes de tecnologia, vinculada à **[Universidade/Instituição]**, com o objetivo de desenvolver soluções digitais inovadoras, acessíveis e alinhadas às necessidades do mercado.
+
+Atuamos sem fins lucrativos, promovendo o aprendizado prático, o empreendedorismo e o impacto real por meio da tecnologia.
+
+## 💻 O que Fazemos
+
+- Desenvolvimento de sistemas web
+- Aplicações mobile
+- APIs e integrações
+- Automação de processos
+- Consultoria tecnológica
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Frontend:** React, Vue, HTML, CSS, JavaScript
+- **Backend:** Java, Node.js, Spring Boot,
+- **Banco de Dados:** MySQL, PostgreSQL, Mongo
+- **Outros:** Git, Docker, Insomnia, Dbeaver
+
+
+
